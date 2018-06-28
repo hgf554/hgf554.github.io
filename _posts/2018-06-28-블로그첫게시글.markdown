@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "블로그 제작"
-실험용 으로 하나 만들어 봅니다~
+description: 실험용 으로 하나 만들어 봅니다.
 date:   2018-06-28 23:23:00 +0530
 categories: jekyll update
 img: monster.jpg
 categories: [one, two]
 color: 7E57C2
-author: webjeda
+author: YoungMin
 ---
-오늘부터 시작이다!
+오늘부터 시작이다! 시작 1일차 파이팅 익숙해져보자
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
