@@ -4,7 +4,7 @@ title:  "블로그 제작"
 실험용 으로 하나 만들어 봅니다~
 date:   2018-06-28 23:23:00 +0530
 categories: jekyll update
-img: 뱀파이어.jpg
+img: monster.jpg
 categories: [one, two]
 color: 7E57C2
 author: webjeda
